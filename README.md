@@ -20,8 +20,8 @@ You will also see any lint errors in the console.
 
 
 ##
-Test 1: [http://localhost:3000/api/generate_offer_view?id=60406870&width=600&height=600](http://localhost:3000/api/generate_offer_view?id=60406870&width=600&height=600)\
-Test 2: [http://localhost:3000/api/generate_image?id=60406870&width=600&height=600](http://localhost:3000/api/generate_image?id=60406870&width=600&height=600)\
+GET: [http://localhost:3000/api/generate_offer_view?id=60406870&width=600&height=600](http://localhost:3000/api/generate_offer_view?id=60406870&width=600&height=600)\
+GET: [http://localhost:3000/api/generate_image?id=60406870&width=600&height=600](http://localhost:3000/api/generate_image?id=60406870&width=600&height=600)\
 or\
 POST [http://localhost:3000/api/generate_offer_view](http://localhost:3000/api/generate_offer_view)
 {“id”: 30435157, “width”: 1200, “height”: 600}\
