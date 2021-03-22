@@ -1,0 +1,11 @@
+
+
+<div id=<%= id %>>
+    <%= id %>
+    <% products.forEach(function(product){ %>
+        <%- include('offer', {product, width, height}); %>
+        <%= product.id %>
+    <% }) %>
+
+</div>
+
