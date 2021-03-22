@@ -10,13 +10,12 @@ In the project directory, you can run:
 ### `npm run start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:3000/api/generate_offer_view?id=60406870&width=600&height=600](http://localhost:3000/api/generate_offer_view?id=60406870&width=600&height=600) to view it in the browser.
 
 
 ### `npm run watch`
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Will rebuild and restart if you make edits.\
 
 
 ##
